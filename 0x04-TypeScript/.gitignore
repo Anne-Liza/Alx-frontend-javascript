@@ -1,0 +1,17 @@
+curiouscoder@Wangui:~/ALX/software/Alx-frontend-javascript$ c
+d 0x04-TypeScript/
+curiouscoder@Wangui:~/ALX/software/Alx-frontend-javascript/0x04-TypeScript$ touch .gitignore
+curiouscoder@Wangui:~/ALX/software/Alx-frontend-javascript/0x04-TypeScript$ node_modules/
+*.pem
+*.key
+*.pub
+.env
+bash: node_modules/: No such file or directory
+*.pem: command not found
+*.key: command not found
+*.pub: command not found
+Command '.env' not found, did you mean:
+  command 'tenv' from snap tenv (4.6.2)
+  command 'env' from deb coreutils (8.32-4.1ubuntu1.2)
+See 'snap info <snapname>' for additional versions.
+curiouscoder@Wangui:~/ALX/software/Alx-frontend-javascript/0x04-TypeScript$ 
